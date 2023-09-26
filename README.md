@@ -1,21 +1,16 @@
-# Project Name
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
-
-Short project description goes here. Explain what your project does and why it's useful.
+# TEST PROJECT
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- [API Documentation](#https://interstellar-space-320739.postman.co/workspace/Team-Workspace~693aea44-e009-4f5d-8574-cd43bf1741b4/collection/25971013-67784144-57ab-4049-8bd4-9c3b809b9972?action=share&creator=25971013)
 
 ## Installation
 
-Provide instructions on how to install and set up the project. Include any dependencies that need to be installed and specify how to install them.
-
 ```bash
-pip install -r requirements.txt# test-project
+pip install -r requirements/base.txt
+```
+
+## Api Documentation
+
+[Link for postman](#api-documentation)
